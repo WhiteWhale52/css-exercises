@@ -1,0 +1,16 @@
+.OddFormate{
+    background-color: rgb(231, 169, 179);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#BigBoss{
+    color: blue;
+    font-size: 36px;
+}
+.Big{
+    font-size: 24px;
+}
+#Greenone{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
